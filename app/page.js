@@ -26,11 +26,8 @@ export default function ProfilePage() {
 
   const images = [
     'https://i.ibb.co/jPxd2FtV/IMG-20251010-WA0009.jpg',
-    'https://i.ibb.co/W4Tv5gg6/IMG20240810151506.jpg',
     'https://i.ibb.co/4gtDPHHm/20241229-135550.jpg',
-    'https://i.ibb.co/ks61yrRT/IMG20240829154409.jpg',
     'https://i.ibb.co/My25H727/IMG20240913114433.jpg',
-    'https://i.ibb.co/gMW3Hv1D/Snapchat-1266439723.jpg',
     'https://i.ibb.co/8gbpvjzT/Snapchat-126560018.jpg',
     'https://i.ibb.co/q3XCs6f3/Snapchat-507704104.jpg',
     'https://i.ibb.co/4wcLjFvn/IMG-20241030-WA0011.jpg',
